@@ -1,0 +1,63 @@
+# Arquivos de configuração do Delphi
+*.local
+*.identcache
+__history/
+
+# Arquivos de saída do Delphi
+*.exe
+*.dll
+*.bpl
+*.dcp
+*.map
+*.local
+
+# Arquivos temporários e de compilação
+__recovery/
+bin/
+obj/
+debug/
+release/
+*.bak
+*.~*
+*.tvsconfig
+*.identcache
+*.local
+
+# Pasta de saída do Delphi
+output/
+
+# Arquivos do projeto Delphi
+*.dproj
+*.groupproj
+*.bdsproj
+*.res
+*.dsk
+
+# Arquivos de configuração do Delphi
+*.cfg
+*.dof
+*.inc
+
+# Pasta de documentação gerada pelo Delphi
+doc/
+
+# Arquivos de usuário e configurações pessoais do Delphi
+*.user
+*.openscproj
+
+# Arquivos temporários
+*.tmp
+*.~*
+*~
+
+# Arquivos de depuração
+*.local
+*.map
+*.tds
+*.rsm
+
+# Logs e arquivos de erro
+*.log
+*.drc
+*.dproj.local
+*.identcache
